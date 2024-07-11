@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thirionlogan
 - 👀 I’m interested in Full stack development, cloud engineering and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about LLMs
+- 📫 How to reach me: thirionlogan@gmail.com 
 
 <!---
 thirionlogan/thirionlogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
